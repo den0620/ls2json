@@ -1,3 +1,6 @@
+# Notice
+This repository was used as a hint to some CTF, so this is not a real project, though it has some useful functionality
+
 # ls2json
 Converts `ls -lR` output file to json
 
